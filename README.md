@@ -12,15 +12,12 @@ Computer Science Student exploring C, C++, Assembly, Graphics Programming and Em
 <img src="https://github-profile-trophy.vercel.app/?username=sdobys&theme=flat" alt="sdobys" />
 </p>
 
----
-
 ## 🔭 Currently working on
 
 🎮 **VOID Engine** — a lightweight game engine built from scratch using C++20, SDL3 and OpenGL 4.6.
 
 🔗 https://github.com/SDobyS/VOID
 
----
 
 ## 🌱 Currently learning
 
@@ -32,13 +29,11 @@ Computer Science Student exploring C, C++, Assembly, Graphics Programming and Em
 - Microcontrollers and electronics
 - NASM x86 Assembly
 
----
 
 ## 🤝 Looking for help with
 
 Advanced rendering techniques, engine architecture and low-level optimization.
 
----
 
 ## 💬 Ask me about
 
@@ -50,21 +45,16 @@ Advanced rendering techniques, engine architecture and low-level optimization.
 - Electronics
 - Microcontrollers
 
----
 
 ## 👨‍💻 Projects
 
-All my projects:
+All my projects: 🔗 https://github.com/SDobyS
 
-🔗 https://github.com/SDobyS
-
----
 
 ## 📫 Contact
 
 GitHub Discussions
 
----
 
 # 🛠 Languages and Tools
 
@@ -75,9 +65,6 @@ GitHub Discussions
 </a>
 <a href="https://www.cprogramming.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-</a>
-<a href="https://www.nasm.us/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/assembly/assembly-original.svg" width="40"/>
 </a>
 <a href="https://www.opengl.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="40"/>
