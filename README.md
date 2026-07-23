@@ -81,23 +81,10 @@ GitHub Discussions
 
 # 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.shion.dev/api?username=SDobyS&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SDobyS&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SDobyS&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDobyS&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SDobyS&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sdobys&theme=tokyonight"/>
-
-</p>
 
 ---
 
