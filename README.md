@@ -5,11 +5,8 @@ Computer Science Student exploring C, C++, Assembly, Graphics Programming and Em
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sdobys&label=Profile%20views&color=0e75b6&style=flat" alt="sdobys" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SDobyS&theme=flat" alt="sdobys" />
+<img src="https://komarev.com/ghpvc/?username=SDobyS&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/stars/SDobyS?style=flat&color=0e75b6"/
 </p>
 
 ## 🔭 Currently working on
@@ -77,7 +74,6 @@ GitHub Discussions
 
 </p>
 
----
 
 # 📊 GitHub Stats
 
@@ -85,8 +81,6 @@ GitHub Discussions
 ![](https://streak-stats.demolab.com/?user=SDobyS&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SDobyS&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
----
 
 # 🐍 Contribution Snake
 
