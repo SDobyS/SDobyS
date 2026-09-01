@@ -13,8 +13,6 @@ Computer Science Student exploring C, C++, Assembly, Graphics Programming and Em
 
 🎮 **VOID Engine** — a lightweight game engine built from scratch using C++20, SDL3 and OpenGL 4.6.
 
-🔗 https://github.com/SDobyS/VOID
-
 
 ## 🌱 Currently learning
 
